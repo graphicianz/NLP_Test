@@ -1,0 +1,122 @@
+train:
+  - sentence: 'I love working with machine learning models.'
+    tags: ['AI', 'Machine Learning']
+  - sentence: 'Python is great for building NLP applications.'
+    tags: ['Programming', 'NLP']
+  - sentence: 'Deep learning has revolutionized artificial intelligence.'
+    tags: ['Deep Learning', 'AI']
+  - sentence: 'Natural Language Processing (NLP) is a subfield of AI.'
+    tags: ['NLP', 'AI']
+  - sentence: 'Data science involves machine learning and statistics.'
+    tags: ['Data Science', 'Machine Learning']
+  - sentence: 'Computer vision and NLP are important for AI applications.'
+    tags: ['AI', 'NLP', 'Computer Vision']
+  - sentence: 'Reinforcement learning is a key part of AI research.'
+    tags: ['AI', 'Reinforcement Learning']
+  - sentence: 'Machine learning algorithms can predict future data.'
+    tags: ['Machine Learning', 'AI']
+  - sentence: 'I enjoy exploring the potential of deep neural networks.'
+    tags: ['Deep Learning', 'AI']
+  - sentence: 'Programming in Python is essential for data science.'
+    tags: ['Programming', 'Data Science']
+  - sentence: 'Robotics uses AI for motion and decision making.'
+    tags: ['AI', 'Robotics']
+  - sentence: 'NLP is helping to bridge the communication gap between humans and machines.'
+    tags: ['NLP', 'AI']
+  - sentence: 'Self-driving cars rely on AI and deep learning to navigate the streets.'
+    tags: ['AI', 'Deep Learning', 'Autonomous Vehicles']
+  - sentence: 'Artificial intelligence is improving customer service with chatbots.'
+    tags: ['AI', 'Chatbots']
+  - sentence: 'Big data analytics plays a huge role in shaping modern marketing strategies.'
+    tags: ['Big Data', 'Data Science']
+  - sentence: 'Quantum computing is still in its early stages but shows great potential.'
+    tags: ['Quantum Computing', 'AI']
+  - sentence: 'I am learning how to apply deep learning to image recognition.'
+    tags: ['Deep Learning', 'Computer Vision']
+  - sentence: 'The future of AI in healthcare is very promising, from diagnosis to treatment.'
+    tags: ['AI', 'Healthcare']
+  - sentence: 'Blockchain technology ensures transparency and security in various applications.'
+    tags: ['Blockchain', 'Technology']
+  - sentence: 'Cybersecurity is becoming increasingly important as digital threats evolve.'
+    tags: ['Cybersecurity', 'Technology']
+  - sentence: 'Artificial intelligence is revolutionizing e-commerce by personalizing shopping experiences.'
+    tags: ['AI', 'E-commerce']
+  - sentence: 'Natural Language Processing is essential for building effective virtual assistants.'
+    tags: ['NLP', 'AI', 'Virtual Assistants']
+  - sentence: 'Machine learning can be used to detect fraudulent transactions in banking.'
+    tags: ['Machine Learning', 'Finance']
+  - sentence: 'Deep learning is a powerful tool for understanding complex patterns in large datasets.'
+    tags: ['Deep Learning', 'Data Science']
+  - sentence: 'Artificial Intelligence can enhance decision making in business analytics.'
+    tags: ['AI', 'Business Analytics']
+  - sentence: 'IoT and AI are used together to create smart home devices.'
+    tags: ['IoT', 'AI']
+  - sentence: 'Natural Language Processing helps machines to understand human emotions through text.'
+    tags: ['NLP', 'AI', 'Emotion Analysis']
+  - sentence: 'The power of AI is transforming the way businesses make decisions and operate.'
+    tags: ['AI', 'Business Intelligence']
+  - sentence: 'AI-powered robots are expected to take over more manual tasks in the future.'
+    tags: ['AI', 'Robotics']
+  - sentence: 'Automated data processing is one of the key advantages of AI in business.'
+    tags: ['AI', 'Automation']
+  - sentence: 'With AI, we can analyze massive amounts of data in real-time.'
+    tags: ['AI', 'Data Science']
+  - sentence: 'AI can predict weather patterns with high accuracy based on past data.'
+    tags: ['AI', 'Meteorology']
+  - sentence: 'Virtual reality and augmented reality are closely related to AI and gaming.'
+    tags: ['AI', 'Virtual Reality', 'Gaming']
+  - sentence: 'AI helps to optimize supply chain operations by predicting demand patterns.'
+    tags: ['AI', 'Supply Chain']
+  - sentence: 'Machine learning models are widely used in email filtering systems.'
+    tags: ['Machine Learning', 'Email']
+  - sentence: 'Deep learning can improve diagnostic accuracy in medical imaging.'
+    tags: ['Deep Learning', 'Healthcare']
+  - sentence: 'AI can be trained to understand sentiment in customer feedback.'
+    tags: ['AI', 'Sentiment Analysis']
+  - sentence: 'Blockchain is used in cryptocurrency to ensure decentralized and secure transactions.'
+    tags: ['Blockchain', 'Cryptocurrency']
+  - sentence: 'Speech recognition technology is one of the key applications of AI in smartphones.'
+    tags: ['AI', 'Speech Recognition']
+  - sentence: 'Artificial intelligence plays a major role in digital marketing through targeted ads.'
+    tags: ['AI', 'Digital Marketing']
+  - sentence: 'Autonomous vehicles rely on AI to process information from sensors in real-time.'
+    tags: ['AI', 'Autonomous Vehicles']
+  - sentence: 'Machine learning is used to optimize traffic flow in smart cities.'
+    tags: ['Machine Learning', 'Smart Cities']
+  - sentence: 'AI enhances personalized learning in educational technologies.'
+    tags: ['AI', 'Education']
+  - sentence: 'Reinforcement learning is used for optimizing complex decision-making tasks.'
+    tags: ['Reinforcement Learning', 'AI']
+  - sentence: 'Deep neural networks are the foundation of many modern AI applications.'
+    tags: ['Deep Learning', 'AI']
+  - sentence: 'Robotic process automation uses AI to automate business processes.'
+    tags: ['AI', 'Robotics', 'Automation']
+  - sentence: 'AI has the potential to revolutionize healthcare by improving patient outcomes.'
+    tags: ['AI', 'Healthcare']
+  - sentence: 'AI is also used in creating personalized recommendations in streaming platforms.'
+    tags: ['AI', 'Recommendation Systems']
+  - sentence: 'The intersection of AI and cybersecurity is helping protect sensitive data.'
+    tags: ['AI', 'Cybersecurity']
+  - sentence: 'Data science and AI go hand-in-hand in solving complex business problems.'
+    tags: ['Data Science', 'AI']
+validation:
+  - sentence: 'AI technologies are transforming industries across the globe.'
+    tags: ['AI']
+  - sentence: 'The use of AI in education is rapidly growing.'
+    tags: ['AI', 'Education']
+  - sentence: 'AI can analyze data faster than human experts in some fields.'
+    tags: ['AI', 'Data Science']
+  - sentence: 'Reinforcement learning is being used to train AI agents in gaming.'
+    tags: ['Reinforcement Learning', 'AI']
+  - sentence: 'Deep learning is essential for speech recognition systems.'
+    tags: ['Deep Learning', 'AI']
+  - sentence: 'Blockchain technology has the potential to change many industries.'
+    tags: ['Blockchain']
+  - sentence: 'NLP is making strides in understanding human language.'
+    tags: ['NLP']
+  - sentence: 'Machine learning is used to predict stock market trends.'
+    tags: ['Machine Learning', 'Finance']
+  - sentence: 'Autonomous vehicles are heavily reliant on AI for navigation.'
+    tags: ['AI', 'Autonomous Vehicles']
+  - sentence: 'AI is helping improve the accuracy of medical diagnoses.'
+    tags: ['AI', 'Healthcare']
